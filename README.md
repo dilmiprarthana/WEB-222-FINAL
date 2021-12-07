@@ -5,7 +5,7 @@ FOOTER OF INFO.HTML
 <head>
 
 
-<script>
+
 
 </script>
 </head>
