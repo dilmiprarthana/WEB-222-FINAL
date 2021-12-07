@@ -7,7 +7,7 @@ FOOTER OF INFO.HTML
 
 
 
-</script>
+
 </head>
 <body>
     Email: <input type="email" name="email" >
